@@ -1,0 +1,12 @@
+[submodule "EcommerceFrontend"]
+	path = EcommerceFrontend
+	url = https://github.com/sirepandeyy/EcommerceFrontend.git
+	branch = master
+[submodule "EcommerceBackend"]
+	path = EcommerceBackend
+	url = https://github.com/sirepandeyy/EcommerceBackend.git
+	branch = master
+[submodule "EcommerceApiGateway"]
+	path = EcommerceApiGateway
+	url = https://github.com/sirepandeyy/EcommerceApiGateway.git
+	branch = master
